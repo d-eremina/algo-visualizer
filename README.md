@@ -1,1 +1,1 @@
-# algo-visualizer
+# Web-application for visualizing algorithms
