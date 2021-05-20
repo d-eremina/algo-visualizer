@@ -1,0 +1,98 @@
+.row-header {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.row-content {
+    margin: 0 auto;
+    padding: 20px 0 20px 0;
+}
+
+.navbar-dark {
+    background-color: #272343;
+    padding: 10px 0 10px 0;
+}
+
+#header-text {
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+#nav-item-text {
+    margin: 0 auto;
+    padding: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+#drawing-place {
+    padding: 0;
+}
+
+.image-button {
+    border: none;
+    background-color: #272343;
+}
+
+.image-button:hover {
+    background-color: #FF8E71;
+}
+
+.Custom-button {
+    border-width: 0;
+    margin-right: 10px;
+    background-color: #FF8E71;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    height: 40px;
+}
+
+.Custom-button:disabled,
+.Custom-button[disabled] {
+    background-color: #272343;
+    color: #cccccc;
+}
+
+.Custom-button:hover {
+    background-color: #151324;
+}
+
+.modal-header {
+    border-bottom: none;
+}
+
+.modal-footer {
+    border-top: none;
+}
+
+.modal-content {
+    background-color: #272343;
+}
+
+#save-button {
+    color: white;
+    background-color: #272343;
+    border: 1px solid #fff;
+    float: right;
+}
+
+#save-button:hover {
+    background-color: #151324;
+}
+
+#cancel-button {
+    color: white;
+    background-color: #272343;
+    border: none;
+    float: right;
+    margin-right: 20px;
+}
+
+#cancel-button:hover {
+    background-color: #151324;
+}

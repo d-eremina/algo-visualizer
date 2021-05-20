@@ -1,0 +1,40 @@
+.validationflow .react-flow__node {
+    width: 40px;
+    border-radius: 50px;
+    padding: 10px;
+    color: #555;
+    border: 5px solid #ddd;
+    text-align: center;
+    font-size: 12px;
+}
+
+.validationflow .react-flow__node-customnode {
+    background: #ffffff;
+    border: 1px solid #ddd;
+}
+
+.validationflow .react-flow__node-componentnode {
+    background: #ffffff;
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+    font-size: 13px;
+    border: 1px solid #ddd;
+}
+
+.react-flow__node-custominput .react-flow__handle {
+    background: #e6e6e9;
+}
+
+.validationflow .react-flow__node-custominput {
+    background: #fff;
+
+}
+
+.validationflow .react-flow__handle-connecting {
+    background: #ff6060;
+}
+
+.validationflow .react-flow__handle-valid {
+    background: #55dd99;
+}
